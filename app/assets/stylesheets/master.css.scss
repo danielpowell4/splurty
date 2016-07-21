@@ -25,6 +25,15 @@
     -webkit-transform:rotate(11deg); /* Opera, Chrome, and Safari */
 }
 
+h1 {
+  font-family: 'metropolissemi_bold', sans-serif;
+  font-size: 3.25rem;
+}
+h2 {
+  font-family: 'metropolisregular', sans-serif;
+  font-size: 2.5rem;
+}
+
 header {
   border-top: 9px solid #222222;
 }
@@ -47,4 +56,5 @@ hr {
   color:black;
   font-size: 25px;
   border-bottom: 1px solid #dfdfdf;
+  font-family: 'metropolisregular', sans-serif;
 }
